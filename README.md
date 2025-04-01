@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name]! 👋
+## Hi there, I'm Vimal! 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Developer+|+EdTech+Innovator;Building+Creative+Tech+Solutions;Always+Learning+and+Improving" />
 
